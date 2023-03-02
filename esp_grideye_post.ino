@@ -15,11 +15,8 @@
 #include "credentials.h"
 
 #define USE_SERIAL Serial
-
 #define SERVER_IP "olvera-dev.com"
 //#define DEBUG
-
-
 
 // Expires Tue, 04 Apr 2023 09:26:32 GMT
 const uint8_t sha1_fingerprint[20] = {
